@@ -1,0 +1,44 @@
+
+
+body {
+    background-color: rgba(175, 175, 180, 0.432);
+    color: rgb(39, 36, 36);
+    border-radius: 10%;
+    border-style:solid;
+    border-radius: 0%;
+    border-color: aqua ;
+ }
+
+
+ h1 {
+    font-family: 'Orbitron', sans-serif;
+    background-color: aquamarine;
+    font-size: 30px;
+ }
+
+ h2 {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    background-color: aquamarine;
+ }
+
+.txt_chico {
+   padding-left: 100px;
+}
+
+
+ .txt_chico1 {
+   font-family: 'Raleway', sans-serif;
+   font-size: 20px;
+   color: black;
+   padding-left: 20px;
+ }
+
+
+.txt_med {
+    font-family: 'Orbitron', sans-serif;
+    color: blueviolet;
+    font-size: 25px;
+    border: 1px solid orange;
+    padding-left: 150px;
+}
